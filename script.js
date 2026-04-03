@@ -9,7 +9,7 @@ document.getElementById("produtoForm").addEventListener("submit", function (even
         marca: document.getElementById("marca").value
     };
 
-    fetch("http://localhost:8080/api/roupas", {
+    fetch("https://pedropaulosil.github.io/LojaRoupa_SpringAPI_Rest/", {
         method: "POST",
         headers: {
             "Content-Type": "application/json"
