@@ -1,6 +1,6 @@
 Este projeto é uma API REST desenvolvida para o gerenciamento de estoque de uma loja de roupas. A aplicação permite o cadastro e a listagem de produtos através de uma interface web integrada com um back-end robusto em Java.
 
- - Tecnologias Utilizadas
+Tecnologias Utilizadas
     Back-end
     Java 25: Linguagem principal do projeto.
     
@@ -14,14 +14,14 @@ Este projeto é uma API REST desenvolvida para o gerenciamento de estoque de uma
 
     Maven: Gerenciador de dependências e build.
 
- - Front-end
+Front-end
     HTML5 / CSS3: Estrutura e estilização da interface.
     
     JavaScript (Fetch API): Comunicação assíncrona com o back-end.
     
     Bootstrap 5: Framework CSS para garantir um design responsivo e moderno.
 
- - Estrutura do Projeto
+ Estrutura do Projeto
     ControllerRoupa: Gerencia as rotas HTTP (GET, POST) e define o endpoint principal /roupas.
     
     Roupa: Entidade que representa a tabela no banco de dados.
