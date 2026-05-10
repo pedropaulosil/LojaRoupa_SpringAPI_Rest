@@ -2,7 +2,7 @@ Este projeto é uma API REST desenvolvida para o gerenciamento de estoque de uma
 
 Tecnologias Utilizadas
     Back-end
-    Java 25: Linguagem principal do projeto.
+    -Java 25: Linguagem principal do projeto.
     
     Spring Boot 4.0.0: Framework para agilizar o desenvolvimento da aplicação.
     
