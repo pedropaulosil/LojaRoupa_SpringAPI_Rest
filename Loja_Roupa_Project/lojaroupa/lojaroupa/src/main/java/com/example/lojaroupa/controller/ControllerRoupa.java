@@ -36,7 +36,7 @@ public class ControllerRoupa {
 
    }
    @GetMapping
-    public Lits<Roupa> ListarRoupas(){
+    public List<Roupa> ListarRoupas(){
        return roupaRepository.findAll();
 
    }
